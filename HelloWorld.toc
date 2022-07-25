@@ -21,3 +21,8 @@
 
 #"referencia" para o arquivo que contem o script
 HelloWorld.lua
+
+#=>toc/.toc = table of content
+#	->precisa ter o mesmo nome da pasta raiz;
+#	->usado pra especificar metada, nome, título, odem, versão e outras informações do addon;
+#	->é o primeiro arquivo buscado ao carregar o addon dentro do jogo;
