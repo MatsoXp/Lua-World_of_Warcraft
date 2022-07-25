@@ -1,0 +1,23 @@
+#https://wowpedia.fandom.com/wiki/World_of_Warcraft_API
+#^ Referência para desenvolvimento de addons
+
+
+#para qual versao do cliente o addon foi desenvolvido
+#/run print((select(4, GetBuildInfo()))); comando para consutlar versao ingame
+#https://wowpedia.fandom.com/wiki/API_GetBuildInfo
+## Interface: 90205
+
+#nome do addon
+## Title: HelloWorld
+
+#descricao
+## Notes: Shows a message of Hello!
+
+#autor
+## Author: Matso
+
+#versao atual do addon
+## Version: 0.0.2
+
+#"referencia" para o arquivo que contem o script
+HelloWorld.lua
